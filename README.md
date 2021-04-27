@@ -1,5 +1,5 @@
-# Green Peas the app for the environnement
+# Green Peas web app  
+Area : Environnement
 
-### En cours de développement
-
-Cette application a pour but de fournir un moyen ludique de savoir dans quel mesure on a un impact sur l'environnement mais également de donner accès à des données suffisament compréhensibles
+This app aims to provide a fun way to find out how our food impacts the environment. 
+We were able to make this data accessible by popularizing it.
